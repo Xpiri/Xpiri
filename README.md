@@ -1,17 +1,16 @@
 # :wave: Hello there! 
 
-I'm Federico, a junior data scientist 📈 from Italy. Welcome to my github page!
+I'm Federico, a junior data scientist 📈 from Italy and aspirant researcher. Welcome to my github page!
 
 * :closed_book: My main interests are: 
-    *   Data science and data visualization
-    *   Machine Learning 
-    *   Deep learning, CV and NLP 
-    *   Statistics and biostatistics 
-    *   Playing board games and videogames
+    *   Statistical modeling, Machine learning and Deep learning
+    *   Explainable AI and Causality in Deep learning
+    *   Statistics and Biostatistics 
+    *   Data Visualization
 
 * :hammer_and_wrench: My favorite tools include: 
     * R and Rstudio
-    * Python and Jupyter Notebooks 
+    * Python, VSCode and Jupyter Notebooks 
     * Tableau and Power Bi
     * Github and LaTeX
 
