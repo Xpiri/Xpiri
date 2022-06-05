@@ -1,6 +1,6 @@
 # :wave: Hello there! 
 
-I'm Federico, a junior data scientist 📈 from Italy and aspirant researcher. Welcome to my github page!
+I'm Federico, a junior data scientist and aspirant researcher 📈 from Italy . Welcome to my github page!
 
 * :closed_book: My main interests are: 
     *   Statistical modeling, Machine learning and Deep learning
