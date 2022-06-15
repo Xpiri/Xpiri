@@ -3,7 +3,7 @@
 I'm Federico, a junior data scientist and aspirant researcher 📈 from Italy . Welcome to my github page!
 
 * :closed_book: My main interests are: 
-    *   Statistical modeling, Machine learning and Deep learning
+    *   Statistical modeling, Machine learning and Deep learning (NLP, CV)
     *   Explainable AI and Causality in Deep learning
     *   Statistics and Biostatistics 
     *   Data Visualization
