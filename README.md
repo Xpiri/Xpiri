@@ -1,6 +1,6 @@
 # :wave: Hello there! 
 
-I'm Federico, a junior data scientist 📈 from Italy . Welcome to my github page!
+I'm Federico, a data scientist 📈 from Italy . Welcome to my github page!
 
 * :closed_book: My main interests are: 
     *   Statistical modeling, Machine learning and Deep learning (NLP, CV)
@@ -13,5 +13,5 @@ I'm Federico, a junior data scientist 📈 from Italy . Welcome to my github pag
     * Tableau and Power Bi
     * Github and LaTeX
 
-* :computer: Check out some of my projects from my [portfolio](https://github.com/Xpiri/Xpiri-Data-Science-Portfolio) ! 
+* :computer: Check out some of my pet projects from my [portfolio](https://github.com/Xpiri/Xpiri-Data-Science-Portfolio) ! 
 * :email: Feel free to reach out to me at: federicopanero15@gmail.com
